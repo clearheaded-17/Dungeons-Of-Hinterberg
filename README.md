@@ -240,4 +240,4 @@ Dungeons of Hinterberg is available as a full free version, with all features an
 Dive into the adventure of a lifetime with Dungeons of Hinterberg. **Download now and start your journey!**
 
 ---
-**Last updated:** 2026-11-02 07:02:09 UTC
+**Last updated:** 2026-11-02 17:39:31 UTC
